@@ -111,7 +111,7 @@ uv pip install Django
 
 - It is important that we know what the levels of the Project folder are as we need to place other important folders in prefect hierarchy.
 
->- First Level is the **Project Main Folder** 
+>- First Level is the **Project Main Folder** which is called the **Root Level** 
 >- The the folder with the same name is called the **Inside Folder Level** or **Project Level**
 >- The Level at which **`manage.py`** is kept is called the **root level**
 >- There is also a **app level**
