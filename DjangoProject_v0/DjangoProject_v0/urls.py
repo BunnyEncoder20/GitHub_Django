@@ -28,4 +28,7 @@ urlpatterns = [
     
     # This is a redirect to app's url.py
     path('chai/', include('chai.urls')),
+    
+    # For hot reloading
+    path("__reload__/", include("django_browser_reload.urls")),
 ]

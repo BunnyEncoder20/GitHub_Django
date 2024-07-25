@@ -15,7 +15,7 @@
 ### Virtual Environment Creation 
 
 ```
-py -m venv .venv
+python -m venv .venv
 ```
 - This is the **traditional way** the virtual environments were created in python.
 > **py** = python3
@@ -27,7 +27,7 @@ py -m venv .venv
 - **uv** An extremely fast Python package installer and resolver, written in Rust.
 - Can be installed using : 
 
-```python
+```
 pip install uv
 ```
 - To create a virtual environment using **uv** use the command: 

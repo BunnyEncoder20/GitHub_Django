@@ -15,7 +15,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import path
 
 # Importing the views folder 
 from . import views
@@ -23,4 +23,5 @@ from . import views
 # remember these urls are of the form : localhost:8000/chai
 urlpatterns = [
     path('',views.all_chai,name='chai_home'),
+    path('tailwind/',views.show_tailwind,name='tailwind_home')
 ]

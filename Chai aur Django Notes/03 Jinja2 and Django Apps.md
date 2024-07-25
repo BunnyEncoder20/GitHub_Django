@@ -260,5 +260,6 @@ All of the above can be replaced by the exact same template of our **Main Projec
 - Notice how we didn't how to specify Django to look for the layout.html file in the parent folder.
 - Djnago by default will search for the specified layout file in the **current app's** template folder, if not there, it'll checkout the **Main Project's** template folder also.
 - All this is possible as we have specified in the **setting.py** of the **Main Project Level** that there is templates folder for ever app and is also there in the root level. 
+Read about the complete guide to Jinja at [Chai aur Code website](https://chaicode.com/blogs/jinja-templates-and-apps-in-django#installation).
 
 

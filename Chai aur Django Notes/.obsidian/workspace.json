@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e5102f5b911d468c",
+        "id": "05e415067f84bb70",
         "type": "tabs",
         "children": [
           {
-            "id": "e604333e671c614f",
+            "id": "59bf5d6a51b796f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Templates and Errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb8f5d8f3e5308c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Jinja2 and Django Apps.md",
+                "file": "04 Tailwindcss and Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Jinja2 and Django Apps.md"
+                "file": "04 Tailwindcss and Django.md"
               }
             }
           },
@@ -110,7 +97,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Jinja2 and Django Apps.md",
+                "file": "04 Tailwindcss and Django.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +120,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6316046762907496,
+                  "scale": 2.4401481815699175,
                   "close": true
                 }
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Jinja2 and Django Apps.md",
+                "file": "04 Tailwindcss and Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Jinja2 and Django Apps.md",
+                "file": "04 Tailwindcss and Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,14 +206,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3dead2b8a039893f",
+  "active": "0fcac8702faf6078",
   "lastOpenFiles": [
+    "03 Jinja2 and Django Apps.md",
+    "02 Templates and Errors.md",
+    "01 Starting Django and Project File Structure.md",
+    "04 Tailwindcss and Django.md",
+    "Assets/Pasted image 20240724185726.png",
+    "Assets/Pasted image 20240724184839.png",
     "Assets",
     "Assets/Pasted image 20240723183906.png",
     "Assets/Pasted image 20240723183847.png",
-    "02 Templates and Errors.md",
-    "03 Jinja2 and Django Apps.md",
-    "01 Starting Django and Project File Structure.md",
     "DBMS/07 SQL/SQL.md",
     "DBMS/07 SQL/Most Important Interview Core Questions.md",
     "Assets/Pasted image 20240722130919.png",
@@ -235,8 +225,6 @@
     "Assets/Pasted image 20240722124047.png",
     "Assets/Pasted image 20240722112726.png",
     "Assets/Pasted image 20240722112336.png",
-    "Assets/Pasted image 20240722112239.png",
-    "Assets/Pasted image 20240722111800.png",
     "DBMS/05 Data Models and It's Types/Data Models.md",
     "DBMS/07 SQL",
     "DBMS/06 RDBMS/Super Key.md",
@@ -259,14 +247,12 @@
     "DBMS/04 DBMS Architectures/1-Tier Architecture.md",
     "DBMS/04 DBMS Architectures/2-Tier Architecture.md",
     "DBMS/04 DBMS Architectures/Database Architectures.md",
-    "DBMS/04 DBMS Architectures/3-Tier Architecture.md",
     "Excalidraw/TimeLine 3 months.excalidraw",
     "DBMS/04 DBMS Architectures",
     "Excalidraw",
     "DBMS/03 Abstraction",
     "DBMS/Types of DB/Untitled 1",
     "DBMS/02 DB Management Systems",
-    "DBMS/01 Types of DBs",
     "Untitled.canvas"
   ]
 }
