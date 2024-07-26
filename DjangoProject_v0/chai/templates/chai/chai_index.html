@@ -9,19 +9,19 @@
 {% endblock %}
 
 {% block heading_block %}
-    <h1>All Types of Available Tea</h1>
+    <h1>
+        All Types of Available Tea
+    </h1>
 {% endblock %}
 
 {% block content_block %}
-    <hr>
-    <ul>
-        <li>Masala Chai</li>
-        <li>Butter Chai</li>
-        <li>Ginger Cardomom Chai</li>
-        <li>Tulsi Chai</li>
-        <li>Ginger Chai</li>
-        <li>Bombay Chai</li>
-    </ul>
-    <br>
+    <div class="grid grid-col-3 gap-4 m-4">
+        {% for chai in chai_list %}
+        <div class="bg-blue-500 p-5">
+            <img class="rounded" src="{{chai.image.url}}" alt="">
+            <span>{{chai.name}}</span>
+        </div>
+        {% endfor %}
+    </div>
     <h5 class="footer">Powered by Django | Filled in by Jinja | Made by HIM 😎</h5>
 {% endblock %}

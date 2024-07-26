@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Tailwindcss and Django.md",
+                "file": "Handle Model and URLS in Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d987f18e0d29efed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Tailwindcss and Django.md"
+                "file": "Interview Tips.md"
               }
             }
           },
@@ -97,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Tailwindcss and Django.md",
+                "file": "Interview Tips.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +133,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.4401481815699175,
+                  "scale": 0.8854989543150426,
                   "close": true
                 }
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Tailwindcss and Django.md",
+                "file": "Interview Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Tailwindcss and Django.md",
+                "file": "Interview Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,12 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fcac8702faf6078",
+  "active": "d987f18e0d29efed",
   "lastOpenFiles": [
+    "Handle Model and URLS in Django.md",
+    "Interview Tips.md",
+    "04 Tailwindcss and Django.md",
     "03 Jinja2 and Django Apps.md",
     "02 Templates and Errors.md",
     "01 Starting Django and Project File Structure.md",
-    "04 Tailwindcss and Django.md",
     "Assets/Pasted image 20240724185726.png",
     "Assets/Pasted image 20240724184839.png",
     "Assets",
@@ -246,7 +261,6 @@
     "Excalidraw/levels_of_data_abstraction.excalidraw.md",
     "DBMS/04 DBMS Architectures/1-Tier Architecture.md",
     "DBMS/04 DBMS Architectures/2-Tier Architecture.md",
-    "DBMS/04 DBMS Architectures/Database Architectures.md",
     "Excalidraw/TimeLine 3 months.excalidraw",
     "DBMS/04 DBMS Architectures",
     "Excalidraw",

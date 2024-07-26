@@ -198,4 +198,8 @@ python manage.py createsuperuser
 > username : bunny
 > password : somasenpai2020#
 
+- Now we can login into the admin panel by going to : http://127.0.0.1:8000/admin (the routes are already made in our `urls.py` files)
+
+---
+
 
